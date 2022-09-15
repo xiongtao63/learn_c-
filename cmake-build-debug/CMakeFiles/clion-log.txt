@@ -1,0 +1,7 @@
+"G:\CLion\clion\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=G:/CLion/clion/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S G:\CLion\CLionProjects\CPlusDemo -B G:\CLion\CLionProjects\CPlusDemo\cmake-build-debug
+-- Configuring done
+CMake Error at CMakeLists.txt:10 (add_executable):
+  No SOURCES given to target: CPlusDemo
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
